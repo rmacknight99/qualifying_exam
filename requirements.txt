@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+botorch
+gpytorch
+ipykernel
+moviepy
+morfeus-ml

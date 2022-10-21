@@ -1,0 +1,14 @@
+sasa_area
+sasa_volume
+disp_area
+disp_volume
+disp_p_int
+disp_p_max
+disp_p_min
+ip
+ea
+electrophilicity
+nucleophilicity
+oxygen_to_CH
+oxygen_to_CH2
+carbon_carbon

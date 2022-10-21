@@ -1,0 +1,128 @@
+Label,Styrene Oxide,Nucleophile,Solvent,Lewis Acid,Temperature,Time,Conversion,SN2,SN1
+,,,,,,,,,
+AG-105-SO-Cy-2eq-Cr-RT-LiClO4-1,1 eq.,Cy: 2 eq.,ACN,LiClO4: 0.1 eq.,RT,24 hrs,66,88,12
+AG-103-SO-Cy-2eq-Cr-RT-LiOTf-1,1 eq.,Cy: 2 eq.,ACN,LiOTf: 0.1 eq.,RT,24 hrs,52,89,11
+AG-107-SO-Cy-2eq-Cr-RT-LiBr-1,1 eq.,Cy: 2 eq.,ACN,LiBr: 0.1 eq.,RT,24 hrs,47,88,12
+,,,,,,,,,
+AG-109-SO-Cy-5eq-Cr-RT-LiClO4-1,1 eq.,Cy: 2 eq.,ACN,LiClO4: 0.1 eq.,RT,24 hrs,75,94,6
+AG-111-SO-Cy-2eq-Cr-RT-AlCl3-1,1 eq.,Cy: 2 eq.,ACN,AlCl3: 0.1 eq.,RT,24 hrs,34,59,41
+AG-113-SO-Cy-2eq-Cr-RT-Mg(OTf)2-1,1 eq.,Cy: 2 eq.,ACN,Mg(OTf)2: 0.1 eq.,RT,24 hrs,100,71,29
+,,,,,,,,,
+AG-117-SO-Cy-2eq-Cr-RT-LiClO4-1eq-2,1 eq.,Cy: 2 eq.,ACN,LiOTf: 1 eq.,RT,24 hrs,100,77,23
+AG-115-SO-Cy-1eq-Cr-RT-LiClO4-1eq-2,1 eq.,Cy: 1 eq.,ACN,LiOTf: 1 eq.,RT,24 hrs,90,65,35
+AG-119-SO-Cy-5eq-Cr-RT-AlCl3-1,1 eq.,Cy: 5 eq.,ACN,AlCl3: 0.1 eq.,RT,24 hrs,95,62,38
+AG-65-SO-Cy-Cr-RT-NoLA-1,1 eq.,Cy: 1 eq.,ACN,-,RT,24 hrs,3,83,17
+AG-125-SO-Cy-2eq-Cr-RT-NoLA-1,1 eq.,Cy: 2 eq.,ACN,-,RT,24 hrs,8,92,8
+AG-127-SO-Cy-5eq-Cr-RT-NoLA-1,1 eq.,Cy: 5 eq.,ACN,-,RT,24 hrs,22,95,5
+,,,,,,,,,
+AG-139-SO-Cy-7eq-Cr-RT-AlCl3-0.1eq-1,1 eq.,Cy: 7 eq.,ACN,AlCl3: 0.1 eq.,RT,24 hrs,82,71,29
+AG-141-SO-Cy-7eq-Cr-RT-AlCl3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,AlCl3: 0.5 eq.,RT,24 hrs,97,40,60
+AG-143-SO-Cy-7eq-Cr-RT-AlCl3-0.8eq-1,1 eq.,Cy: 7 eq.,ACN,AlCl3: 0.8 eq.,RT,24 hrs,97,37,63
+AG-169-SO-Cy-7eq-Cr-RT-AlCl3-1.5eq-1,1 eq.,Cy: 7 eq.,ACN,AlCl3: 1.5 eq.,RT,24 hrs,100,27,63
+AG-MG-145-SO-Cy-2eq-Cr-RT-Al(OEt)3-0.1eq-1,1 eq.,Cy: 2 eq.,ACN,Al(OEt)3: 0.1 eq.,RT,24 hrs,46,66,34
+AG-MG-147-SO-Cy-2eq-Cr-RT-Al(OEt)3-0.5eq-1,1 eq.,Cy: 2 eq.,ACN,Al(OEt)3: 0.5 eq.,RT,24 hrs,50,61,39
+AG-MG-149-SO-Cy-2eq-Cr-RT-Al(OEt)3-0.8eq-1,1 eq.,Cy: 2 eq.,ACN,Al(OEt)3: 0.8 eq.,RT,24 hrs,54,54,46
+,,,,,,,,,
+AG-MG-153-SO-Cy-7eq-Cr-RT-Al(NO3)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Al(NO3)3: 0.5 eq.,RT,24 hrs,93,77,23
+AG-MG-155-SO-Cy-7eq-Cr-RT-Al(Me)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Al(Me)3: 0.5 eq.,RT,24 hrs,50,91,9
+AG-MG-151-SO-Cy-7eq-Cr-RT-Al(OTf)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Al(OTf)3: 0.5 eq.,RT,24 hrs,90,73,27
+AG-157-SO-Cy-7eq-Cr-RT-Al(OEt)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Al(OEt)3: 0.5 eq.,RT,24 hrs,63,66,34
+AG-159-SO-Cy-7eq-Cr-RT-TiCl4-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,TiCl4: 0.5 eq,RT,24 hrs,100,50,50
+,,,,,,,,,
+AG-163-SO-Cy-7eq-Cr-RT-Mg(OTf)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Mg(OTf)2: 0.5 eq,RT,24 hrs,100,72,28
+AG-165-SO-Cy-7eq-Cr-RT-Yb(Otf)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Yb(OTf)3: 0.5 eq,RT,24 hrs,100,72,28
+AG-167-SO-Cy-7eq-Cr-RT-Zn(Otf)-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Zn(OTf): 0.5 eq,RT,24 hrs,92,78,22
+,,,,,,,,,
+AG-175-SO-Cy-Cr-RT-ACN-1,1 eq.,Cy: 7 eq.,ACN,AlCl3: 0.5 eq.,RT,24 hrs,91,43,57
+AG-176-SO-Cy-Cr-RT-Toluene-1,1 eq.,Cy: 7 eq.,Toluene,AlCl3: 0.5 eq.,0,24 hrs,100,44,56
+AG-177-SO-Cy-Cr-RT-EtOH-1,1 eq.,Cy: 7 eq.,EtOH,AlCl3: 0.5 eq.,RT,24 hrs,94,74,26
+AG-178-SO-Cy-Cr-RT-MTBE-1,1 eq.,Cy: 7 eq.,MTBE,AlCl3: 0.5 eq.,RT,24 hrs,95,45,55
+AG-179-SO-Cy-Cr-RT-DCM-1,1 eq.,Cy: 7 eq.,DCM,AlCl3: 0.5 eq.,RT,24 hrs,94,37,63
+AG-180-SO-Cy-Cr-RT-THF-1,1 eq.,Cy: 7 eq.,THF,AlCl3: 0.5 eq.,RT,24 hrs,98,47,53
+AG-203-SO-Cy-cr-RT-AlCl3-2-propanol-1,1 eq.,Cy: 7 eq.,2-propanol,AlCl3: 0.5 eq.,RT,24 hrs,97,72,28
+AG-202-SO-Cy-cr-RT-AlCl3-CF3CH2OH-1,1 eq.,Cy: 7 eq.,CF3CH2OH,AlCl3: 0.5 eq.,RT,24 hrs,97,58,42
+AG-202-SO-Cy-cr-RT-AlCl3-Hex-2,1 eq.,Cy: 7 eq.,Hex,AlCl3: 0.5 eq.,RT,24 hrs,100,100:00:00,check
+AG-207-SO-Cy-cr-RT-AlCl3-Chloroform-1,1 eq.,Cy: 7 eq.,Chloroform,AlCl3: 0.5 eq.,RT,24 hrs,91,34,66
+,1 eq.,Cy: 7 eq.,Acetic acid,AlCl3: 0.5 eq.,RT,24 hrs,,,
+AG-205-SO-Cy-cr-RT-AlCl3-t-butanol-1,1 eq.,Cy: 7 eq.,t-butanol,AlCl3: 0.5 eq.,RT,24 hrs,100,56,44
+,,,,,,,,,
+AG-181-SO-Cy-Cr-RT-AlCl3-0deg-1,1 eq.,Cy: 7 eq.,ACN,AlCl3: 0.5 eq.,0,1.5 hrs,64,38,62
+,,,,,,,,,
+AG-183-SO-Cy-7eq-Cr-RT-GaBr3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,GaBr3: 0.5 eq,RT,24 hrs,94,56,44
+AG-172-SO-Cy-7eq-Cr-RT-AgOTf-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Sn(OTf)2: 0.5 eq,RT,24 hrs,47,86,14
+AG-174-SO-Cy-7eq-Cr-RT-Cu(Otf)3-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Cu(OTf)2: 0.5 eq,RT,24 hrs,76,71,29
+AG-173-SO-Cy-7eq-Cr-RT-Sn(OTf)2-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Sn(OTf)2: 0.5 eq,RT,24 hrs,95,79,21
+AG-192-MgBr2,1 eq.,Cy: 7 eq.,ACN,MgBr2: 0.5 eq,RT,24 hrs,100,69,31
+AG-193-ZnBr2,1 eq.,Cy: 7 eq.,ACN,ZnBr2: 0.5 eq,RT,24 hrs,51,84,16
+AG-194-PbF2,1 eq.,Cy: 7 eq.,ACN,PbF2: 0.5 eq,RT,24 hrs,80,88,12
+,,,,,,,,,
+AG-198-SO-Cy-CR-RT-Al(OEt)3-EtOH-1,1 eq.,Cy: 7 eq.,EtOH,Al(OEt)3: 0.5 eq.,RT,24 hrs,88,57,43
+,,,,,,,,,
+AG-197-SO-Cy-Cr-RT-LiBF4-1,1 eq.,Cy: 7 eq.,ACN,LiBF4: 0.5 eq.,RT,24 hrs,95,88,12
+,,,,,,,,,
+AG-199-SO-Cy-cr-RT-LiClO4-2,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.5 eq.,RT,24 hrs,100,88,12
+AG-201-SO-Cy-cr-RT-LiBR-1,1 eq.,Cy: 7 eq.,ACN,LiBr: 0.5 eq.,RT,24 hrs,99,88,12
+,,,,,,,,,
+AG-BK2-4-SO-Cy-cr-RT-PbCl2-1,1 eq.,Cy: 7 eq.,ACN,PbCl2: 0.5 eq,RT,24 hrs,69,80,20
+,,,,,,,,,
+AG-198-SO-Cy-CR-RT-Al(OEt)3-EtOH-1,1 eq.,Cy: 7 eq.,EtOH,Al(OEt)3: 0.5 eq.,RT,24 hrs,88,57,43
+AG-BK2-1-SO-Cy-cr-RT-NoLA-EtOH-1,1 eq.,Cy: 7 eq.,EtOH,No LA,RT,24 hrs,10,50,50
+,,,,,,,,,
+AG-197-SO-Cy-Cr-RT-LiBF4-1,1 eq.,Cy: 7 eq.,ACN,LiBF4: 0.5 eq.,RT,24 hrs,95,88,12
+AG-200-SO-Cy-cr-RT-LiOTf-2,1 eq.,Cy: 7 eq.,ACN,LiOTf: 0.5 eq.,RT,24 hrs,100,84,16
+AG-199-SO-Cy-cr-RT-LiClO4-2,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.5 eq.,RT,24 hrs,100,88,12
+AG-201-SO-Cy-cr-RT-LiBR-1,1 eq.,Cy: 7 eq.,ACN,LiBr: 0.5 eq.,RT,24 hrs,99,88,12
+,,,,,,,,,
+AG-BK2-6-SO-Cy-cr-RT-SnCl4-DCM-1,1 eq.,Cy: 7 eq.,DCM,SnCl4: 0.5 eq.,RT,24 hrs,93,39,2
+AG-BK2-7-SO-Cy-cr-RT-SnCl4-EtOH-1,1 eq.,Cy: 7 eq.,EtOH,SnCl4: 0.5 eq.,RT,24 hrs,95,67,33
+,,,,,,,,,
+AG-BK2-8-SO-Cy-cr-RT-Sn(OAc)4-1,1 eq.,Cy: 7 eq.,ACN,Sn(OAc)4: 0.5 eq.,RT,24 hrs,65,56,44
+AG-BK2-8-SO-Cy-cr-RT-Sn(tBuO)4-1,1 eq.,Cy: 7 eq.,ACN,Sn(tBuO)4: 0.5 eq.,RT,24 hrs,92,58,42
+AG-BK2-11-SO-Cy-cr-RT-SnF4-1,1 eq.,Cy: 7 eq.,ACN,SnF4: 0.5 eq.,RT,24 hrs,95,74,26
+AG-161-SO-Cy-7eq-Cr-RT-SnCl4-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,SnCl4: 0.5 eq,RT,24 hrs,100,50,50
+AG-173-SO-Cy-7eq-Cr-RT-Sn(OTf)2-0.5eq-1,1 eq.,Cy: 7 eq.,ACN,Sn(OTf)2: 0.5 eq,RT,24 hrs,95,79,21
+,,,,,,,,,
+,,,,,,,,,
+Flow,,,,,,,,,
+,,,,,,,,,
+AG-BK2-85-F-LiClO4-50-1,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.1 eq.,50,15 min,87,75,15
+AG-BK2-81-F-LiClO4-75-1,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.1 eq.,75,15 min,100,80,20
+AG-BK2-79-F-liClO4-100C-1,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.1 eq.,100,15 min,100,85,15
+AG-BK2-82-F-LiClO4-150-1,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.1 eq.,150,15 min,100,85,15
+,,,,,,,,,
+AG-BK2-84-F-liClO4-7min-75C-1,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.1 eq.,75,7 min,96,77,23
+,,,,,,,,,
+AG-BK2-85-F-LiClO4-1-cy-75-1,1 eq.,Cy: 1 eq.,ACN,LiClO4: 0.1 eq.,75,7 min,,messy,
+AG-BK2-85-F-liClO4-7min-2eqcy-2,1 eq.,Cy: 2 eq.,ACN,LiClO4: 0.1 eq.,75,7 min,100,78,22
+AG-BK2-85-F-LiClO4-5cy-75-1,1 eq.,Cy: 5 eq.,ACN,LiClO4: 0.1 eq.,75,7 min,100,74,26
+AG-BK2-85-F-liClO4-7min-7eqcy-2,1 eq.,Cy: 7 eq.,ACN,LiClO4: 0.1 eq.,75,7 min,95,79,21
+,,,,,,,,,
+AG-BK2-86-F-AlOTf3-7min-75-1,1 eq.,Cy: 7 eq.,ACN,Al(OTf)3: 0.1 eq.,75,7 min,100,77,23
+AG-BK2-86-F-CuCl2-7min-75-1,1 eq.,Cy: 7 eq.,ACN,CuCl2: 0.1 eq.,75,7 min,100,79,21
+AG-BK2-86-F-MgOTf2-7min-75-1,1 eq.,Cy: 7 eq.,ACN,Mg(OTf)2: 0.1 eq.,75,7 min,100,71,29
+,,,,,,,,,
+AG-BK2-86-F-CuF2,1 eq.,Cy: 7 eq.,ACN,CuF2: 0.1 eq.,75,7 min,83,82,18
+AG-BK2-86-F-MgBr2,1 eq.,Cy: 7 eq.,ACN,MgBr2: 0.1 eq.,75,7 min,97,65,35
+AG-BK2-86-F-NiCl2,1 eq.,Cy: 7 eq.,ACN,NiCl2: 0.1 eq.,75,7 min,47,84,16
+AG-BK2-86-F-SnF4,1 eq.,Cy: 7 eq.,ACN,SnF4: 0.1 eq.,75,7 min,85,81,19
+,,,,,,,,,
+AG-BK2-89-F-AlOEt3-2eq,1 eq.,Cy: 2 eq.,ACN,Al(OEt)3: 0.1 eq.,75,7 min,100,76,24
+AG-BK2-89-F-InCl3-2eq,1 eq.,Cy: 2 eq.,ACN,InCl3: 0.1 eq.,75,7 min,100,75,25
+AG-BK2-89-F-ZnBr2-2eq,1 eq.,Cy: 2 eq.,ACN,ZnBr2: 0.1 eq.,75,7 min,100,79,21
+AG-BK2-89-F-LiBr-2eq,1 eq.,Cy: 2 eq.,ACN,LiBr: 0.1 eq.,75,7 min,100,81,19
+AG-BK2-89-F-ZnOTf2-2eq,1 eq.,Cy: 2 eq.,ACN,Zn(OTf)2: 0.1 eq.,75,7 min,100,72,28
+,,,,,,,,,
+AG-BK2-94-F-BF3-1,1 eq.,Cy: 2 eq.,ACN,BF3: 0.1 eq.,75,7 min,82,84,16
+AG-BK2-97-F-LiBF4-1,1 eq.,Cy: 2 eq.,ACN,LiBF4: 0.1 eq.,75,7 min,86,77,23
+,,,,,,,,,
+,,,,,,,,,
+ID,1 eq.,Cy: 2 eq.,ACN,LiBF4: 0.1 eq.,75,3 min,42,82,18
+ID,1 eq.,Cy: 2 eq.,ACN,Zn(OTf)2: 0.1 eq.,100,3 min,70,62,38
+ID,1 eq.,Cy: 2 eq.,ACN,InCl3: 0.1 eq.,100,7 min,45,71,29
+ID,1 eq.,Cy: 2 eq.,ACN,LiBF4: 0.1 eq.,100,3 min,39,81,19
+ID,1 eq.,Cy: 2 eq.,ACN,Zn(OTf)2: 0.1 eq.,75,3 min,41,68,32
+ID,1 eq.,Cy: 2 eq.,ACN,Al(OTf)3: 0.1 eq.,50,7 min,55,78,22
+ID,1 eq.,Cy: 2 eq.,ACN,LiOTf: 0.1 eq.,50,3 min,79,77,23
+ID,1 eq.,Cy: 2 eq.,ACN,LiOTf: 0.1 eq.,75,3 min,78,80,20
+ID,1 eq.,Cy: 2 eq.,ACN,Zn(OTf)2: 0.1 eq.,50,3 min,38,74,26
+ID,1 eq.,Cy: 2 eq.,ACN,ZnBr2: 0.1 eq.,100,7 min,57,73,27

@@ -1,0 +1,5 @@
+ea
+disp_p_min
+disp_p_int
+ip
+nucleophilicity

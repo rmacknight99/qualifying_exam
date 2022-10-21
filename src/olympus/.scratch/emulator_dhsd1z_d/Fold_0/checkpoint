@@ -1,0 +1,2 @@
+model_checkpoint_path: "/ocean/projects/cie160013p/rmacknig/quals_ss_hplc/gryffin_and_olympus/src/olympus/.scratch/emulator_dhsd1z_d/Fold_0/model.ckpt"
+all_model_checkpoint_paths: "/ocean/projects/cie160013p/rmacknig/quals_ss_hplc/gryffin_and_olympus/src/olympus/.scratch/emulator_dhsd1z_d/Fold_0/model.ckpt"
