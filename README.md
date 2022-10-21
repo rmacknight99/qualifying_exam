@@ -1,2 +1,2 @@
 # songbird
-Bayesian Optimization and Modeling Warehouse
+- clone repo: `git clone`
